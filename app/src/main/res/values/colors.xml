@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2c96e7</color>
+    <color name="colorPrimaryDark">#3a89ce</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorCard">#FFFFFF</color>
+    <color name="colorText">#2C2C2C</color>
+    <color name="colorBackground">#EEEEEE</color>
+    <color name="news_unread">#000000</color>
+    <color name="news_read">#989898</color>
+    <color name="bottom_color">#a9a9a9</color>
+    <color name="transparent">#00000000</color>
+
+    <color name="comment_reply">#9ba4a3</color>
+    <color name="comment_line">#dddddd</color>
+    <color name="comment_text">#5b5d5c</color>
+    <color name="comment_btn">#bfbfbf</color>
+    <color name="comment_at">#5d8698</color>
+
+    <color name="item_selected">#c9c8c8</color>
+    <color name="item_clear">#FFFFFF</color>
+</resources>

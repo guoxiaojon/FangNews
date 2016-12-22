@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item android:title="资讯">
+        <menu>
+            <item
+                android:id="@+id/nav_zhihu"
+                android:checked="true"
+                android:checkable="true"
+                android:icon="@mipmap/ic_drawer_zhihu"
+                android:title="知乎日报" />
+            <item
+                android:id="@+id/nav_wechat"
+                android:checkable="true"
+                android:icon="@mipmap/ic_drawer_wechat"
+                android:title="微信精选" />
+            <item
+                android:id="@+id/nav_gank"
+                android:checkable="true"
+                android:icon="@mipmap/ic_drawer_gank"
+                android:title="干货集中营" />
+        </menu>
+    </item>
+
+    <item android:title="选项">
+        <menu>
+            <item
+                android:id="@+id/nav_like"
+                android:checkable="true"
+                android:icon="@mipmap/ic_drawer_like"
+                android:title="喜欢" />
+            <item
+                android:id="@+id/nav_setting"
+                android:checkable="true"
+                android:icon="@mipmap/ic_drawer_setting"
+                android:title="设置" />
+            <item
+                android:id="@+id/nav_about"
+                android:checkable="true"
+                android:icon="@mipmap/ic_drawer_about"
+                android:title="关于" />
+        </menu>
+    </item>
+
+</menu>
