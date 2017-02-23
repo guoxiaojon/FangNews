@@ -18,4 +18,17 @@
  - 使用x5WebView
  - 使用原生的夜间模式
  - 包含搜索，收藏，分享功能
+ 
+ 
+ 
+ ###部分功能截图
+ ![image](https://github.com/guoxiaojon/FangNews/blob/master/FangNews_pic/news_1.png)
+ ![image](https://github.com/guoxiaojon/FangNews/blob/master/FangNews_pic/news_2.png)
+ ![image](https://github.com/guoxiaojon/FangNews/blob/master/FangNews_pic/news_3.png)
+ ![image](https://github.com/guoxiaojon/FangNews/blob/master/FangNews_pic/news_4.png)
+ ![image](https://github.com/guoxiaojon/FangNews/blob/master/FangNews_pic/news_5.png)
+ ![image](https://github.com/guoxiaojon/FangNews/blob/master/FangNews_pic/news_6.png)
+ ![image](https://github.com/guoxiaojon/FangNews/blob/master/FangNews_pic/news_7.png)
+ ![image](https://github.com/guoxiaojon/FangNews/blob/master/FangNews_pic/news_8.png)
+ 
    
