@@ -43,6 +43,7 @@ public abstract class BaseFragment <T extends BasePresenter> extends Fragment im
 
     }
 
+
     protected abstract void initInject();
 
     @Nullable
